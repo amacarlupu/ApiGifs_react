@@ -1,0 +1,2 @@
+*{font-family:Helvetica,Arial,sans-serif}body{padding:60px}:root{--color-borde:#d8d8d8;--shadows:7px 7px 7px rgba(0,0,0,0.15)}input{color:grey;font-size:1.2em;width:100%}.card{align-content:center;border:2px solid #d8d8d8;border:2px solid var(--color-borde);display:grid;justify-items:center;margin:.5em;padding:.5em;box-shadow:7px 7px 7px rgba(0,0,0,.15);box-shadow:var(--shadows);text-align:center}img{max-height:250px}.card-grid{display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center}
+/*# sourceMappingURL=main.722354f7.chunk.css.map */
